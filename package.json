@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mcamarco/NoteTaker/issues"
   },
-  "homepage": "https://github.com/mcamarco/NoteTaker#readme"
+  "homepage": "https://github.com/mcamarco/NoteTaker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
