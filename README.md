@@ -6,7 +6,8 @@ To run the application, you need to have Node.js and npm (Node Package Manager) 
 
 Clone the repository:
 ```
-git clone https://github.com/mcamarco/NoteTaker.git``
+git clone https://github.com/mcamarco/NoteTaker.git 
+```
 
 Install dependencies:
 bash
